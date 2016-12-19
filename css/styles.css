@@ -17,3 +17,18 @@
 .top-header span {
   color: #6D6E71;
 }
+.idea-title-input, .idea-body-text {
+  text-indent: 10px;
+  color: #939598;
+  border: 2px solid #CCCCCC;
+  resize: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  width: 500px;
+  height: 30px;
+  margin: 5px 0;
+}
+
+.save-button {
+  
+}
